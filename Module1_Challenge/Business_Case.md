@@ -12,5 +12,25 @@ While specific figures regarding the market size of Chainanalysis's customer bas
 Chainanalysis's unique advantage lies in its comprehensive data collection and analysis techniques in order to provide solutions to simplify blockchain transactions. The specific tools that they include involve transaction monitoring, address screening, user insights for growth teams, and effortless transaction tracing and visualization. 
 The company capitalizes on advanced data analysis and blockchain technology to provide their services through products such as Reactor which connects crypotcurrency transactions to real world entities, KYT (Know Your Transaction) for AML/CFT compliance, Address Screening, Playbook, and Storyline for transactions tracing and visulization. 
 The implementation goals of these technologies serve to provide in depth insights into blockchain transactions, aiding in compliance, investigation, and risk management for their clients. 
+
 ## Landscape 
-As of currently, Chainanalysis 
+As of currently, Chainanalysis caters to financial institutions by providing blockchain and crytocurrency tools in order to adopt crypto successfully while maintaining compliance, assess risk, monitor cryptocurrency transactions, and identify potential crypto-related financial crime. 
+Over the last 5 to 10 years one of the main focuses has been providing regulatory developments and blockchain data analysis. Chainanalysis strives to provide regulatory actions across the United States and internationally for digital assets. On the other hand, by providing detailed data anlysis, the company is able to allow investors and financial institutions to perform research and acquire insights on institutional and retail investors' activities and market behaviour. 
+Additionally, other companies that specialize in this domain are Coinfirm and CipherTrace. 
+
+## Results 
+One of the biggest impacts that Chainanalysis has had is within the crytocurrency analytics sector by providing tools and services to government entities, NFT marketplace, financial institutions, and cybersecurity companies. The biggest impact resides in the company's ability to fight against financial crimes within the crytocurrency field. 
+In order to measure success in this field, companies such as Chainanalysis focus on customer growth, revenue growth, market share, and impact on regulatory compliance. 
+So far, Chainanalysis has proven to exceed performance metrics due to significant customer growth expanision into new markets, and its role in important regulatory and law enforcement actions 
+In the end, Chainanalysis has been recognized as a leader in this domain and was included in Inc.'s 2023 Best in Business for the Crypto & Blockchain. 
+
+## Recommendations 
+A potential product that could benefit this company would include a detailed tracking and analysis of NFTs (Non Fungible Token). This could allow Chainanalysis to gain a competitive edge by decreasing fraud and money laundering by offering specialized tools to NFT marketplaces. These tools would include tracking, detection of suspicious activies, and monitoring for money laundering. In order to implement this product, technologies utilized would include blockchain analytics tailored to NFTs and pattern recognition for NFT transactions. Lastly, these technologies provide an appropriate solution because they address singular ownership characteristics of NFTs. 
+
+### Sources 
+https://news.yahoo.com/chainalysis-raises-170-million-6th-123350101.html 
+https://www.financemagnates.com/cryptocurrency/news/chainalysis-secures-170-million-in-series-f-funding/ 
+https://www.inc.com/profile/chainalysis
+https://academy.moralis.io/blog/exploring-chainalysis-blockchain-data-platform
+https://www.chainalysis.com
+https://www.chainalysis.com/customer-stories/
